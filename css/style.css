@@ -1,0 +1,21 @@
+.Container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.box{
+  height: 30px;
+  width: 30px;
+  border: 1px solid black;
+}
+.boxModified{
+  height: 30px;
+  width: 30px;
+  border: 1px solid black;
+  background: red;
+}
+.boxFix{
+  height: 30px;
+  width: 30px;
+  border: 1px solid black;
+  background: red;
+}

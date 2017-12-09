@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "P2S";
+    src: url(../font/P2S.ttf);
+}
+body{
+  background-image: url(../img/space.png);
+  background-repeat: repeat;
+  background-position:center;
+}
+
+.SWimage{
+  margin: auto;
+  display: block;
+  height: auto;
+  width: 700px;
+}
+
+.choose{
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "P2S";
+  color: #F0F0F0;
+}
+
+.sideContainer{
+  display: flex;
+  justify-content: space-around;
+}
+
+.sideItemLeft{
+  width: 198px;
+  height: 198px;
+  cursor: pointer;
+}
+
+.sideItemRight{
+  width: 198px;
+  height: 198px;
+  cursor: pointer;
+}
+
+.img{
+  width: 100%;
+  height:auto;
