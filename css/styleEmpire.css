@@ -6,11 +6,25 @@ background-size: 2000px;
 
 .SWimage{
   width: 20%;
+  position: absolute;
+    margin-left: 5em;
+}
+
+
+.SWimageVador{
+  width: 50%;
+  position: absolute;
+  margin-top: auto;
+  margin-left: 50em;
 }
 
 .borderContainer{
+  position: relative;
+
+  margin: auto;
+  margin-top: 5em;
   width: 100%;
-  border: 10px solid green;
+  border: 10px solid red;
   border-radius: 20px;
   width: 340px;
   height: 640px;
@@ -30,13 +44,13 @@ background-size: 2000px;
   height: 30px;
   width: 30px;
   border: 1px solid rgba(255, 255, 255, .4);
-  background: red;
+  background: green;
 }
 .boxFix{
   height: 30px;
   width: 30px;
   border: 1px solid rgba(255, 255, 255, .4);
-  background: green;
+  background: red;
 }
 
 

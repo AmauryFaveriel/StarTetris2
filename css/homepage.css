@@ -11,8 +11,9 @@ body{
 .SWimage{
   margin: auto;
   display: block;
-  height: auto;
-  width: 700px;
+  width: 35%;
+  margin-top: 2em;
+  margin-bottom: 4em;
 }
 
 .choose{
