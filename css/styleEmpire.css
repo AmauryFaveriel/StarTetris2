@@ -4,6 +4,10 @@ background-repeat: no-repeat;
 background-size: 2000px;
 }
 
+audio{
+  margin-left: 20em;
+}
+
 .SWimage{
   width: 20%;
   position: absolute;

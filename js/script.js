@@ -1,3 +1,6 @@
+var x = document.getElementById("myAudio");
+x.autoplay = true;
+x.load();
 var grilleWidth = 10;
 var grilleHeight = 20;
 var laGrille = document.querySelector('.Container')
